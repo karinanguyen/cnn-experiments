@@ -4,7 +4,7 @@
 Implemented the style transfer technique from "Image Style Transfer Using Convolutional Neural Networks" (Gatys et al., CVPR 2015). The general idea is to take two images, and produce a new image that reflects the content of one but the artistic "style" of the other. 
 
 
-<img width="285" height="822" alt="Screen Shot 2021-05-30 at 12 12 39 AM" src="https://user-images.githubusercontent.com/47619897/120091712-c0cd8f80-c0db-11eb-8456-1360cd5ce85b.png">   <img width="285" alt="Screen Shot 2021-05-30 at 12 13 09 AM" src="https://user-images.githubusercontent.com/47619897/120091722-d2af3280-c0db-11eb-8a3a-6fe07d9ee737.png"> <img width="285"  height="822" alt="Screen Shot 2021-05-30 at 12 14 54 AM" src="https://user-images.githubusercontent.com/47619897/120091759-1144ed00-c0dc-11eb-8eb1-1c184ab2d0b1.png">
+<img width="250" height="822" alt="Screen Shot 2021-05-30 at 12 12 39 AM" src="https://user-images.githubusercontent.com/47619897/120091712-c0cd8f80-c0db-11eb-8456-1360cd5ce85b.png">   <img width="250"  height="822" alt="Screen Shot 2021-05-30 at 12 13 09 AM" src="https://user-images.githubusercontent.com/47619897/120091722-d2af3280-c0db-11eb-8a3a-6fe07d9ee737.png"> <img width="250"  height="822" alt="Screen Shot 2021-05-30 at 12 14 54 AM" src="https://user-images.githubusercontent.com/47619897/120091759-1144ed00-c0dc-11eb-8eb1-1c184ab2d0b1.png">
 
 
 
